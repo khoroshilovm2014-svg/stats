@@ -1,0 +1,54 @@
+{
+  "checked_accounts": {},
+  "stats": {
+    "total_checks": 4
+  },
+  "users": {
+    "7635015201": {
+      "name": "fanat metana",
+      "checks": [
+        {
+          "nickname": "Player123",
+          "account_id": 548790132,
+          "timestamp": "2026-02-07T02:54:57.264675",
+          "battles": 1550,
+          "winrate": 53.29032258064517
+        },
+        {
+          "nickname": "Pro_100_Igrok",
+          "account_id": 583014482,
+          "timestamp": "2026-02-07T02:55:39.728597",
+          "battles": 94,
+          "winrate": 82.97872340425532
+        }
+      ],
+      "join_date": "2026-02-07T02:41:39.090046"
+    },
+    "7765167468": {
+      "name": "\ud835\udd44\ud835\udd63.\ud835\udd46\ud835\udd5c\ud835\udd52\ud835\udd5c \ud835\udd46\ud835\udd57\ud835\udd57\ud835\udd5a\ud835\udd54\ud835\udd5a\ud835\udd52\ud835\udd5d \ud80c\udd42\u20e0 #\u2c97\u2ca9\u2c81\u2ca5",
+      "checks": [
+        {
+          "nickname": "faza220",
+          "account_id": 587656648,
+          "timestamp": "2026-02-07T03:00:13.484474",
+          "battles": 3903,
+          "winrate": 47.373815014091726
+        }
+      ],
+      "join_date": "2026-02-07T02:56:27.894233"
+    },
+    "6718267436": {
+      "name": "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",
+      "checks": [
+        {
+          "nickname": "zahar1213",
+          "account_id": 659665460,
+          "timestamp": "2026-02-07T02:58:58.085743",
+          "battles": 438,
+          "winrate": 46.57534246575342
+        }
+      ],
+      "join_date": "2026-02-07T02:56:42.104813"
+    }
+  }
+}
